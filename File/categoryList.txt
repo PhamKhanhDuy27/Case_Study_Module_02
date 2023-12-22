@@ -1,0 +1,8 @@
+C1,Female,Dress
+C2,Female,Shirt
+C3,Female,Trousers
+C4,Female,Skirt
+C5,Female,Suits
+C6,Male,Shirt
+C7,Male,Trousers
+8

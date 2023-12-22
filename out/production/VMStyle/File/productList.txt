@@ -1,0 +1,24 @@
+P1,Style dress,339000,C1
+P2,Cotton dress,249000,C1
+P3,Wool dress,189000,C1
+P4,Modern wear,229000,C2
+P5,T-Shirt,59000,C2
+P6,Sweater,129000,C2
+P7,Hoodie,249000,C2
+P8,Jacket,339000,C2
+P9,Shorts,119000,C3
+P10,Short pant,149000,C3
+P11,Trouser,189000,C3
+P12,Short skirt,179000,C4
+P13,Long skirt,229000,C4
+P14,Pants skirt,145000,C4
+P15,Long suit,249000,C5
+P16,Short suit,189000,C5
+P17,Modern wear,285000,C6
+P18,T-Shirt,345000,C6
+P19,Sweater,395000,C6
+P20,Hoodie,395000,C6
+P21,Jacket,279000,C6
+P22,Short,235000,C7
+P23,Trouser,375000,C7
+24
